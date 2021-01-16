@@ -1,1 +1,6 @@
 abirami
+
+sts
+angular
+react
+js
